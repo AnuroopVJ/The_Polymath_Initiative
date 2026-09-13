@@ -1,0 +1,72 @@
+LoCoMo 8B Analytics Handoff
+============================
+
+IMPORTANT:
+These files are COPIES of the original result files.
+No source files were moved, cut, deleted, or modified.
+
+full_dialog_top5.json
+  SOURCE: C:\Users\neela\Downloads\The_Polymath_Initiative\corrected_results\rag_results_summaries_observations_full_backfilled_rescored.json
+  SOURCE_SHA256: ddc625a7825e464168ecac6c8a68d6d65f71354375d76756758e1b0f2f462f99
+  COPIED_SHA256: ddc625a7825e464168ecac6c8a68d6d65f71354375d76756758e1b0f2f462f99
+  STATUS: VERIFIED_COPY
+
+full_dialog_top10.json
+  SOURCE: C:\Users\neela\Downloads\The_Polymath_Initiative\corrected_results\rag_results_summaries_observations_full_backfilled_rescored.json
+  SOURCE_SHA256: ddc625a7825e464168ecac6c8a68d6d65f71354375d76756758e1b0f2f462f99
+  COPIED_SHA256: ddc625a7825e464168ecac6c8a68d6d65f71354375d76756758e1b0f2f462f99
+  STATUS: VERIFIED_COPY
+
+full_dialog_top25.json
+  SOURCE: C:\Users\neela\Downloads\The_Polymath_Initiative\corrected_results\rag_results_summaries_observations_full_backfilled_rescored.json
+  SOURCE_SHA256: ddc625a7825e464168ecac6c8a68d6d65f71354375d76756758e1b0f2f462f99
+  COPIED_SHA256: ddc625a7825e464168ecac6c8a68d6d65f71354375d76756758e1b0f2f462f99
+  STATUS: VERIFIED_COPY
+
+full_dialog_top50.json
+  SOURCE: C:\Users\neela\Downloads\The_Polymath_Initiative\corrected_results\rag_results_summaries_observations_full_backfilled_rescored.json
+  SOURCE_SHA256: ddc625a7825e464168ecac6c8a68d6d65f71354375d76756758e1b0f2f462f99
+  COPIED_SHA256: ddc625a7825e464168ecac6c8a68d6d65f71354375d76756758e1b0f2f462f99
+  STATUS: VERIFIED_COPY
+
+full_observation_top5.json
+  SOURCE: C:\Users\neela\Downloads\The_Polymath_Initiative\corrected_results\rag_results_summaries_observations_full_backfilled_rescored.json
+  SOURCE_SHA256: ddc625a7825e464168ecac6c8a68d6d65f71354375d76756758e1b0f2f462f99
+  COPIED_SHA256: ddc625a7825e464168ecac6c8a68d6d65f71354375d76756758e1b0f2f462f99
+  STATUS: VERIFIED_COPY
+
+full_observation_top10.json
+  SOURCE: C:\Users\neela\Downloads\The_Polymath_Initiative\corrected_results\rag_results_summaries_observations_full_backfilled_rescored.json
+  SOURCE_SHA256: ddc625a7825e464168ecac6c8a68d6d65f71354375d76756758e1b0f2f462f99
+  COPIED_SHA256: ddc625a7825e464168ecac6c8a68d6d65f71354375d76756758e1b0f2f462f99
+  STATUS: VERIFIED_COPY
+
+full_observation_top25.json
+  SOURCE: C:\Users\neela\Downloads\The_Polymath_Initiative\corrected_results\rag_results_summaries_observations_full_backfilled_rescored.json
+  SOURCE_SHA256: ddc625a7825e464168ecac6c8a68d6d65f71354375d76756758e1b0f2f462f99
+  COPIED_SHA256: ddc625a7825e464168ecac6c8a68d6d65f71354375d76756758e1b0f2f462f99
+  STATUS: VERIFIED_COPY
+
+full_observation_top50.json
+  SOURCE: C:\Users\neela\Downloads\The_Polymath_Initiative\corrected_results\rag_results_summaries_observations_full_backfilled_rescored.json
+  SOURCE_SHA256: ddc625a7825e464168ecac6c8a68d6d65f71354375d76756758e1b0f2f462f99
+  COPIED_SHA256: ddc625a7825e464168ecac6c8a68d6d65f71354375d76756758e1b0f2f462f99
+  STATUS: VERIFIED_COPY
+
+full_summary_top2.json
+  SOURCE: C:\Users\neela\Downloads\The_Polymath_Initiative\corrected_results\rag_results_summaries_observations_topk2_backfilled_rescored.json
+  SOURCE_SHA256: aa00f63577e6ac82e3ada7c0d615cf6c77aca6c8ad9122d8c04a3b5c20a1bc3c
+  COPIED_SHA256: aa00f63577e6ac82e3ada7c0d615cf6c77aca6c8ad9122d8c04a3b5c20a1bc3c
+  STATUS: VERIFIED_COPY
+
+full_summary_top5.json
+  SOURCE: C:\Users\neela\Downloads\The_Polymath_Initiative\corrected_results\rag_results_summaries_observations_full_backfilled_rescored.json
+  SOURCE_SHA256: ddc625a7825e464168ecac6c8a68d6d65f71354375d76756758e1b0f2f462f99
+  COPIED_SHA256: ddc625a7825e464168ecac6c8a68d6d65f71354375d76756758e1b0f2f462f99
+  STATUS: VERIFIED_COPY
+
+full_summary_top10.json
+  SOURCE: C:\Users\neela\Downloads\The_Polymath_Initiative\corrected_results\rag_results_summary_top10_FRESH.json
+  SOURCE_SHA256: 8f3ef5fd4d5b2d3264f7762c6a142e032be185c7ee1366971858d623587448ad
+  COPIED_SHA256: 8f3ef5fd4d5b2d3264f7762c6a142e032be185c7ee1366971858d623587448ad
+  STATUS: VERIFIED_COPY
